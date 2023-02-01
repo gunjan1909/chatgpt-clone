@@ -1,6 +1,6 @@
 ## CHATGPT CLONE USING OPENAI API
 
-#### Note: The production site might stop working once the api key is expired or the openAi API revokes the free version.
+### Note: The production site might stop working once the api key is expired or the openAi API revokes the free version.
 
 <p align="center">
   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
