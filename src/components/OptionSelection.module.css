@@ -17,13 +17,13 @@
   color: black;
 }
 .ingrid:nth-child(3n + 1):hover {
-  border: 2px solid rgb(0, 0, 128);
+  border: 3px solid rgb(0, 0, 128);
 }
 .ingrid:nth-child(3n + 2):hover {
-  border: 2px solid rgb(128, 0, 0);
+  border: 3px solid rgb(128, 0, 0);
 }
 .ingrid:nth-child(3n):hover {
-  border: 2px solid rgb(0, 128, 0);
+  border: 3px solid rgb(0, 128, 0);
 }
 
 .ingrid h3 {
