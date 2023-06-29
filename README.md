@@ -1,5 +1,7 @@
 ## CHATGPT CLONE USING OPENAI API
 
+### OPENAI FREE CREDITS EXPIRED.
+
 ### Note: The production site might stop working once the api key is expired or the openAi API revokes the free version.
 
 <p align="center">
